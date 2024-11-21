@@ -6,6 +6,12 @@ name = "pypi"
 [packages]
 ipykernel = "*"
 jupyter = "*"
+tensorflow = "*"
+annoy = "*"
+apache-beam = "*"
+scikit-learn = "*"
+tensorflow-hub = "*"
+tensorflow-transform = "*"
 
 [dev-packages]
 
