@@ -12,6 +12,10 @@ apache-beam = "*"
 scikit-learn = "*"
 tensorflow-hub = "*"
 tensorflow-transform = "*"
+wheel = "*"
+cohere = "*"
+altair = "*"
+umap-learn = "*"
 
 [dev-packages]
 
